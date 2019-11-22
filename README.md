@@ -1,4 +1,4 @@
-# Gatsby / Layout & Helmet <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
+# Gatsby : Layout & Helmet <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 
 ### What is in there
@@ -11,8 +11,8 @@ Gatsby is a blazing fast modern site generator for React. Gatsby is a free and o
 
 ### How make it run
 ```
-git clone https://github.com/mustapha-benmbarek/gatsby-001-layout-helmet
-cd gatsby-001-layout-helmet
+git clone https://github.com/mustapha-benmbarek/gatsby-layout-helmet
+cd gatsby-layout-helmet
 npm install 
 gatsby develop
 ```
